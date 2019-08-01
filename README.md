@@ -1,4 +1,4 @@
-# universal-finger-tab
+# Universal Finger Tab
 
 The goal of this project is to develop one finger tab that will work for every user.
 
